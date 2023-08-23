@@ -47,6 +47,6 @@ In this example I created an agent(worker) named Donald Williams. Donald will be
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I created an SLA plan with severity A. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed. This SLA has a grace period of 1 which is a short amount of time.
 </p>
 <br />
