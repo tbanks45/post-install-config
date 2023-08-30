@@ -25,6 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
+  
 ![image](https://github.com/tbanks45/post-install-config/assets/142834800/b05535ce-5a91-4b8d-aac0-d13f244fc0d0)
 
 </p>
@@ -34,6 +35,7 @@ After installing osTicket I was able to begin creating roles, departments, and t
 <br />
 
 <p>
+  
 ![image](https://github.com/tbanks45/post-install-config/assets/142834800/ed66419b-b66c-4e23-b5ba-e953e71923fd)
 
 </p>
@@ -43,6 +45,7 @@ In this example I created an agent(worker) named Donald Williams. Donald will be
 <br />
 
 <p>
+  
 ![image](https://github.com/tbanks45/post-install-config/assets/142834800/cc750256-912d-4424-8166-791c108d8f07)
 
 </p>
